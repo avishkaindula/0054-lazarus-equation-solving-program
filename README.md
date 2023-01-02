@@ -1,4 +1,9 @@
-Download the Calculator.exe file and run it.
+Download the Calculator.exe file and run it.  
+
+A Equation Solving Desktop Application Created in Sinhala Language by using Lazarus  
+
+This is a desktop app created in Sinhala Language that can solve equations like Simple equations , Integer expansion , Factors in the interval of two squares. Also Area, volume and perimeter of solid objects and plane figures can be found from this software  
+Technologies used - Lazarus , Pascal  
 
 ![Calculator 1](https://user-images.githubusercontent.com/100791045/210073474-35423734-75a8-4714-984d-c3e770fa4d47.PNG)
 
