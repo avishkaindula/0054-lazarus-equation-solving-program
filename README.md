@@ -1,4 +1,4 @@
-# A Equation Solving Desktop Application Created in Sinhala Language by using Lazarus  
+# An Equation Solving Desktop Application Created in Sinhala Language by using Lazarus  
 
 Download the Calculator.exe file and run it.  
 
